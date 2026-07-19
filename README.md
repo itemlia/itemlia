@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">hi i'm lia, a student game developer from london<br><br>I'm currently working on two projects, a collaborative indie horror game project called nitro has passed, and a personal project of my own; an RPG like game influenced by greek mythology.<br><br>i'm now in my third and final year at the university of stafforshire studying game design and programming. i've been programming for 6 years and have been developing games using unity for the past 4 years. during the last two years i've begun learning unreal engine and c++ at university as well! ➶-͙˚ ༘✶<br><br>─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───</p>
+<p align="center">hi i'm lia, a graduate game developer from london<br><br>I'm currently working on a few projects: a collaborative indie horror game project called nitro has passed, a personal project of my own; an RPG like game influenced by greek mythology, as well as a solar system simulation where the player can fly around and interact with planets in our solar system.<br><br>i recently graduated from university of stafforshire with a 2:1 in game design and programming. i've been programming for 6 years and have been developing games using unity for the past 5 years. during the last three years i've begun learning unreal engine and c++ at university as well! ➶-͙˚ ༘✶<br><br>─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───</p>
 
 ###
 
